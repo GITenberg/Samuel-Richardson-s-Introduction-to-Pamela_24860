@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '26779'
     url: http://www.gutenberg.org/2009/agents/26779
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24860#Samuel-Richardson-s-Introduction-to-Pamela
 gutenberg_issued: '2008-03-17'
 gutenberg_type: Text
 identifiers:
